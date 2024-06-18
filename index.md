@@ -1,4 +1,4 @@
-<!DOCTYPE =html>
+<!DOCTYPE=html>
 <html lang="en">
   <head> <strong>Zachalope's landing page.</strong></head>
 <body>
