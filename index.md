@@ -3,9 +3,9 @@
   <head> <strong>Zachalope's landing page.</strong></head>
 <body>
 
-<h5>Nothing to see here.</h5>
+<h5>Just messing around with HTML.</h5>
 <h6>Maybe someday they'll be something interesting.</h6>
-<em>Probably not.</em> I'll just be messing around.<br>
+<em>Probably not.</em> <small><small>But you never know.</small></small><br>
 <br>
 In the meantime, you could check out my wife's skincare business: <a href="https://crimsoncardinal.skin">Crimson Cardinal Products</a>
 </body>
