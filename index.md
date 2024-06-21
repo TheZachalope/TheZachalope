@@ -1,7 +1,7 @@
 
 <html lang="en">
   <head> <strong>Zachalope's landing page.</strong>
-  <link rel="stylesheet" href="https://github.com/TheZachalope/TheZachalope/blob/main/styles.css">
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/TheZachalope/TheZachalope/main/styles.css">
   </head>
 <body>
 
