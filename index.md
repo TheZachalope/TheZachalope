@@ -1,6 +1,6 @@
 
 <html lang="en">
-  <head> <strong>Zachalope's landing page.</strong>
+  <head name="head"> <strong>Zachalope's landing page.</strong>
     <link href="/styles.css" type="text/css" rel="stylesheet">
   </head>
 <body>
