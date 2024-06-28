@@ -1,10 +1,10 @@
 
 <html lang="en">
-  <head name="topper"> <strong>Zachalope's landing page.</strong>
+  <head> 
     <link href="/styles.css" type="text/css" rel="stylesheet">
   </head>
 <body>
-
+<h1><strong>Zachalope's landing page.</strong></h1>
 <h5>Just messing around with HTML.</h5>
 <h6>Maybe someday they'll be something interesting.</h6>
 <em>Probably not.</em> <small><small><small><small><small><small><small>But you never know.</small></small></small></small></small></small></small><br>
