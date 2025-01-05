@@ -1353,94 +1353,6 @@ a {
     padding: 1rem;
   }
 }
-.cid-uo1z5n5X7D {
-  display: flex;
-  background-image: url("../../../assets/images/mbr.jpg");
-}
-.cid-uo1z5n5X7D .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
-}
-@media (min-width: 768px) {
-  .cid-uo1z5n5X7D {
-    align-items: center;
-  }
-  .cid-uo1z5n5X7D .row {
-    justify-content: center;
-  }
-  .cid-uo1z5n5X7D .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uo1z5n5X7D .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uo1z5n5X7D {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-uo1z5n5X7D .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uo1z5n5X7D .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uo1z5n5X7D .mbr-section-title,
-.cid-uo1z5n5X7D .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-uo1z5n5X7D .mbr-text,
-.cid-uo1z5n5X7D .mbr-section-btn {
-  text-align: center;
-  color: #edefeb;
-}
-.cid-uo1zfmyEAu {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #edefeb;
-}
-.cid-uo1zfmyEAu .mbr-text {
-  color: #000000;
-}
-.cid-uo1zfmyEAu .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-uo1zfmyEAu .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-uo1zfmyEAu .mbr-text,
-.cid-uo1zfmyEAu .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-uo1zfmyEAu .item-wrapper {
-  background: #ffffff;
-  margin-bottom: 2rem;
-  padding: 2.25rem;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uo1zfmyEAu .item-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uo1zfmyEAu .item-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-.cid-uo1zhupljL {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-uyYEJZ4MxH {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1454,6 +1366,12 @@ a {
 }
 .cid-uyYEJZ4MxH .mbr-section-title {
   color: #000000;
+}
+.cid-uo1zhupljL {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #232323;
+  overflow: hidden;
 }
 .cid-uqlYQxizQv {
   z-index: 1000;
@@ -2028,6 +1946,88 @@ a {
 @media (max-width: 575px) {
   .cid-uqlYQxizQv .navbar-collapse {
     padding: 1rem;
+  }
+}
+.cid-uo1z5n5X7D {
+  display: flex;
+  background-image: url("../../../assets/images/mbr.jpg");
+}
+.cid-uo1z5n5X7D .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .cid-uo1z5n5X7D {
+    align-items: center;
+  }
+  .cid-uo1z5n5X7D .row {
+    justify-content: center;
+  }
+  .cid-uo1z5n5X7D .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-uo1z5n5X7D .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uo1z5n5X7D {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-uo1z5n5X7D .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-uo1z5n5X7D .content-wrap {
+    width: 100%;
+  }
+}
+.cid-uo1z5n5X7D .mbr-section-title,
+.cid-uo1z5n5X7D .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uo1z5n5X7D .mbr-text,
+.cid-uo1z5n5X7D .mbr-section-btn {
+  text-align: center;
+  color: #edefeb;
+}
+.cid-uo1zfmyEAu {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #edefeb;
+}
+.cid-uo1zfmyEAu .mbr-text {
+  color: #000000;
+}
+.cid-uo1zfmyEAu .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-uo1zfmyEAu .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-uo1zfmyEAu .mbr-text,
+.cid-uo1zfmyEAu .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-uo1zfmyEAu .item-wrapper {
+  background: #ffffff;
+  margin-bottom: 2rem;
+  padding: 2.25rem;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-uo1zfmyEAu .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uo1zfmyEAu .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
   }
 }
 .cid-uo1zhupljL {
