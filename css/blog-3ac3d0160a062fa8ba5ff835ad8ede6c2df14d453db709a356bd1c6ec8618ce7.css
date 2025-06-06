@@ -90,3 +90,20 @@ body {margin: 0;}
 #ioxtjn-3{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
 #i721jb-3{padding:10px;margin:0px 0px 0px 21px;}
 #i3i75j-3{min-height:100px;color:#000000;background-color:#cacaca;border-radius:50px;padding:0px 0px 0px 0px;margin:0px 25px 25px 25px;}@media (max-width: 992px){.navbar-menu-link:link{background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;}}@media (max-width: 768px){.navbar-items-c{display:none;width:100%;}.navbar-burger{display:block;}.navbar-menu{width:100%;}.navbar-menu-link{display:block;}}@media (max-width: 480px){.navbar-brand:link{font-size:25px;}}
+
+#block1{
+    min-height:100px;color:#000000;background-color:#cacaca;border-radius:50px;padding:0px 0px 0px 0px;margin:0px 25px 25px 25px;
+}
+#blockFont{
+    padding:10px;font-family:Trebuchet MS, Helvetica, sans-serif;font-size:30px;text-align:left;margin:0px 0px 0px 21px;
+}
+#blogTitle{
+    font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+#blogDate{
+    padding:10px;font-family:Trebuchet MS, Helvetica, sans-serif;font-size:9px;text-align:left;margin:0px 0px 0px 21px;
+}
+#blogBox{
+    padding:10px;margin:0px 0px 0px 21px;
+}
+#blogEntry{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
