@@ -14,12 +14,14 @@ body {margin: 0;}
 #i67ig{background-repeat:repeat;background-position:left top;background-attachment:fixed;background-size:cover;background-image:url("../assets/photos_2022_3_24_fst_handmade-paper.jpg");background-color:#000000;}
 #i67ig:link{background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;background-color:#000000;}
 #ilxkz5{font-size:11px;}
-#itmszm{min-height:100px;padding:10px;}
 #imaorg{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
 #izi7r3{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
 #iojldr{padding:10px;margin:0px 0px 0px 21px;background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;column-rule:none;}
 
 
+#hoverText{
+    min-height:100px;padding:10px;
+}
 #blockBack{
     min-height:100px;
     color:#000000;
