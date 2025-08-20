@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
-  background: #f4f4f4;
+  background: #6022a6;
 }
 
 header {
@@ -62,15 +62,4 @@ header {
   background: white;
   padding: 20px;
   border-radius: 8px;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th, td {
-  padding: 10px;
-  border-bottom: 1px solid #ccc;
-  text-align: left;
 }
