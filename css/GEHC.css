@@ -5,6 +5,26 @@ body {
   background: #6022a6;
 }
 
+/* unvisited link */
+a:link {
+  color: rgb(0, 0, 0);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 0);
+}
+
+/* selected link */
+a:active {
+  color: rgb(0, 0, 255);
+}
+
 header {
   background: #38003f49;
   color: white;
@@ -71,7 +91,7 @@ header {
 }
 
 .cardPM {
-  background: #0d9700;
+  background: #0fb800;
   color: white;
   padding: 20px;
   flex: 1;
@@ -85,29 +105,10 @@ header {
 }
 
 .cardMisc {
-  background: #1c0083;
-  color: white;
+  background: #9900ff;
+  color: rgb(255, 255, 255);
   padding: 20px;
   flex: 1;
   text-align: center;
   border-radius: 8px;
-}
-/* unvisited link */
-a:link {
-  color: rgb(0, 0, 0);
-}
-
-/* visited link */
-a:visited {
-  color: rgb(0, 0, 0);
-}
-
-/* mouse over link */
-a:hover {
-  color: rgb(255, 0, 0);
-}
-
-/* selected link */
-a:active {
-  color: rgb(0, 0, 255);
 }
