@@ -78,6 +78,20 @@ header {
   text-align: center;
   border-radius: 8px;
 }
+.MiscCards {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.cardMisc {
+  background: #1c0083;
+  color: white;
+  padding: 20px;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
+}
 /* unvisited link */
 a:link {
   color: rgb(0, 0, 0);
