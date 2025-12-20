@@ -1,81 +1,87 @@
-/* Reset some defaults */
-*,
-*:before,
-*:after {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* { box-sizing: border-box; } 
+body {margin: 0;}
+.navbar-brand:link{visibility:visible;background-repeat:no-repeat;background-position:left center;background-attachment:scroll;background-size:contain;background-image:url("../assets/logo5.png");z-index:1745;border-radius:0px 0px 0px 0px;padding:30px 1px 1px 50px;font-family:Arial Black, Gadget, sans-serif;font-size:30px;color:#ff0000;}
+.navbar:link{background-color:#000000;background-repeat:repeat;background-position:left top;background-attachment:scroll;background-size:auto;background-image:linear-gradient(to right, #656565 0%, rgba(0, 0, 0, 255) 100%);}
+.navbar{color:rgb(221, 221, 221);min-height:100px;width:100%;margin:0px 0px 10px 0px;position:static;border:0px none;border-radius:0px 0px 0px 0px;background-color:rgba(0,0,0,0.6);}
+.navbar-container{max-width:950px;margin-top:0px;margin-right:auto;margin-bottom:0px;margin-left:auto;width:95%;}
+.navbar-items-c{display:inline-block;float:right;}
+.navbar-container::after{content:"";clear:both;display:block;}
+.navbar-brand{vertical-align:top;display:inline-block;min-height:100px;color:#ff0000;text-decoration:none;text-shadow:0px 0 25px white;padding:5px 5px 5px 5px;margin:0px 0px 0px -40px;z-index:223;border:15px solid rgba(0,0,0,0);}
+.navbar-menu{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;display:block;float:right;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;min-height:100px;}
+.navbar-menu-link{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:inherit;text-decoration-line:none;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline-block;padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px;font-family:Verdana, Geneva, sans-serif;min-height:75px;text-align:center;line-height:0px;border-top:20px solid rgba(0,0,0,0);font-size:30px;}
+.navbar-burger{margin-top:10px;margin-right:0px;margin-bottom:10px;margin-left:0px;width:45px;padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;display:none;float:right;cursor:pointer;}
+.navbar-burger-line{padding-top:1px;padding-right:1px;padding-bottom:1px;padding-left:1px;background-color:white;margin-top:5px;margin-right:0px;margin-bottom:5px;margin-left:0px;}
+#i67ig{background-repeat:repeat;background-position:left top;background-attachment:fixed;background-size:cover;background-image:url("../assets/photos_2022_3_24_fst_handmade-paper.jpg");background-color:#000000;}
+#i67ig:link{background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;background-color:#000000;}
+#ilxkz5{font-size:11px;}
+#imaorg{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
+#izi7r3{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
+#iojldr{padding:10px;margin:0px 0px 0px 21px;background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;column-rule:none;}
+
+
+#hoverText{
+    min-height:100px;padding:10px;
+}
+#blockBack{
+    min-height:100px;
+    color:#000000;
+    background-color:#cacaca;
+    border-radius:50px;
+    padding:0px 0px 0px 0px;
+    margin:0px 25px 25px 25px;
+}
+#blockFont{
+    padding:10px;
+    font-family:Trebuchet MS, Helvetica, sans-serif;
+    font-size:30px;
+    text-align:left;
+    margin:0px 0px 0px 21px;
+}
+#blogTitle{
+    font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+#blogDate{
+    padding:10px;
+    font-family:Trebuchet MS, Helvetica, sans-serif;
+    font-size:9px;
+    text-align:left;
+    margin:0px 0px 0px 21px;
+}
+#blogBox{
+    padding:10px;
+    margin:0px 0px 0px 21px;
+}
+#blogEntry{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size:15px;
 }
 
-body {
-    font-family: "Segoe UI", Arial, sans-serif;   /* Change to any preferred font */
-    line-height: 1.6;
-    background: #f5e8d9;          /* Paper‑like beige tone */
-    color: #333;
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    gap: 20px;
+
+#april172025pic{
+    max-width:300px;
+    max-height:450px;
+    object-position:center;
+    object-fit:auto;
+    width:auto;
+    height:auto;
+    min-width:auto;
+    min-height:auto;
 }
 
-/* Header styling */
-header {
-    padding: 30px 20px;
-    text-align: center;
+#footerHeight{
+    min-height:100px;
 }
-header h1 {
-    margin-bottom: 10px;
-}
-nav ul {
-    list-style-type: none;
-}
-nav a {
-    color: #555;                  /* Link colour */
-    text-decoration: none;
-    margin-right: .5rem;
-}
-nav a:hover {
-    text-decoration: underline;
-}
-
-/* Main content */
-main {
-    flex-grow: 1;                 /* Takes remaining space */
-    padding: 20px;
-}
-
-.post {
-    background: #fff;
-    box-shadow: 0 2px 8px rgba(0,0,0,.15);
-    margin-bottom: 30px;
-    padding: 20px;
-}
-.post h2 {
-    color: #c0392b;               /* Accented heading colour */
-}
-.post time {
-    font-size: .9rem;
-    color: #777;
-}
-
-/* Footer styling */
-footer {
-    background:#f0f0f0;
+#footerBox{
+    padding:10px;
     text-align:center;
-    padding:15px 20px;
-    position:relative;            /* Allows it to sit above the main content if needed */
-    bottom:0;
+    color:#9d9d9d;
 }
-
-/* Optional: make the “paper” texture subtle */
-body::before,
-body::after {
-    content:"";
-    position:absolute;
-    top:-5%;
-    left:-5%;
-    right:-5%;
-    height:110%;                 /* Extra area to blend into page */
-    background:#fff;
-    z-index:-1;                  /* Layers behind content */
+#footerLink{
+    padding:10px;
+    text-align:center;
+    color:#ffffff;
+}
+#footerText{
+    text-align:center;
+    color:#000000;
 }
