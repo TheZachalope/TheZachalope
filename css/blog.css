@@ -11,65 +11,44 @@ body {margin: 0;}
 .navbar-menu-link{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:inherit;text-decoration-line:none;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline-block;padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px;font-family:Verdana, Geneva, sans-serif;min-height:75px;text-align:center;line-height:0px;border-top:20px solid rgba(0,0,0,0);font-size:30px;}
 .navbar-burger{margin-top:10px;margin-right:0px;margin-bottom:10px;margin-left:0px;width:45px;padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;display:none;float:right;cursor:pointer;}
 .navbar-burger-line{padding-top:1px;padding-right:1px;padding-bottom:1px;padding-left:1px;background-color:white;margin-top:5px;margin-right:0px;margin-bottom:5px;margin-left:0px;}
-#i67ig{background-repeat:repeat;background-position:left top;background-attachment:fixed;background-size:cover;background-image:url("../assets/photos_2022_3_24_fst_handmade-paper.jpg");background-color:#000000;}
-#i67ig:link{background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;background-color:#000000;}
-#ilxkz5{font-size:11px;}
-#imaorg{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
-#izi7r3{font-family:"Trebuchet MS", Helvetica, sans-serif;font-size:15px;}
-#iojldr{padding:10px;margin:0px 0px 0px 21px;background-repeat:unset;background-position:unset;background-attachment:unset;background-size:unset;background-image:unset;background-image-color:unset;background-image-gradient:unset;background-image-gradient-dir:unset;background-image-gradient-type:unset;column-rule:none;}
 
-
-#hoverText{
-    min-height:100px;padding:10px;
-}
-#blockBack{
-    min-height:100px;
-    color:#000000;
-    background-color:#cacaca;
-    border-radius:50px;
-    padding:0px 0px 0px 0px;
-    margin:0px 25px 25px 25px;
-}
-#blockFont{
-    padding:10px;
-    font-family:Trebuchet MS, Helvetica, sans-serif;
-    font-size:30px;
-    text-align:left;
-    margin:0px 0px 0px 21px;
-}
-#blogTitle{
-    font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
-}
-#blogDate{
-    padding:10px;
-    font-family:Trebuchet MS, Helvetica, sans-serif;
-    font-size:9px;
-    text-align:left;
-    margin:0px 0px 0px 21px;
-}
-#blogBox{
-    padding:10px;
-    margin:0px 0px 0px 21px;
-}
-#blogEntry{
-    font-family:"Trebuchet MS", Helvetica, sans-serif;
-    font-size:15px;
+a:link {
+  color: #3F2F2F;
 }
 
+/* visited link */
+a:visited {
+  color: #3F2F2F;
+}
 
-#april172025pic{
-    max-width:300px;
-    max-height:450px;
-    object-position:center;
-    object-fit:auto;
-    width:auto;
-    height:auto;
-    min-width:auto;
-    min-height:auto;
+/* mouse over link */
+a:hover {
+  color: #E8DCC2;
+}
+
+/* selected link */
+a:active {
+  color: #E8DCC2;
+}
+
+.yeartitle {
+  display: flex;
+  gap: 20px;
+  margin: 20px 20px;
+}
+
+.yearlink {
+  background: #C46A4A;
+  color: white;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
 }
 
 #footerHeight{
     min-height:100px;
+  background: rgba(0, 0, 0, 0.6);
 }
 #footerBox{
     padding:10px;
@@ -84,4 +63,75 @@ body {margin: 0;}
 #footerText{
     text-align:center;
     color:#000000;
+} 
+
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(180deg, #E8DCC2, #E8DCC2);
+    color: #333;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    padding: 50px 20px;
+    background: #1e2a38;
+    color: white;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.header .subtitle {
+    margin-top: 10px;
+    font-size: 1rem;
+    opacity: 0.85;
+}
+
+/* Main Container */
+.container {
+    max-width:1500px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Blog Post Card */
+.post {
+    background: #a8a39dc2;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border: 1px solid #3F2F2F;
+    overflow: hidden;
+}
+
+/* Post Header */
+.post-header {
+    background: #8B5E3C;
+    color: white;
+    padding: 20px;
+    border-bottom: 3px solid #7A8450;
+}
+
+.post-title {
+    margin: 0;
+    font-size: 1.6rem;
+}
+
+.post-date {
+    margin: 5px 0 0;
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+/* Post Content */
+.post-content {
+    padding: 25px;
+    color: black;
+}
+
+.post-content p {
+    line-height: 1.7;
+    margin-bottom: 15px;
+    font-size: 1.05rem;
 }
