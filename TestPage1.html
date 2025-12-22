@@ -1,215 +1,78 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en">
 <head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="/css/TestPage1.css" />
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Welcome to my website">
-  <meta name="keywords" content="website, home">
-  <title>Home - My Website</title>
-  
-  <!-- Open Graph -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Home - My Website">
-  <meta property="og:description" content="Welcome to my website">
-  <meta property="og:image" content="">
-  <meta property="og:url" content="https://zachalope.com/">
-  
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Home - My Website">
-  <meta name="twitter:description" content="Welcome to my website">
-  <meta name="twitter:image" content="">
-  
-  
-  <!-- Canonical URL -->
-  <link rel="canonical" href="https://zachalope.com/">
-  
-  <!-- Favicon -->
-  <link rel="icon" href="https://zachalope.com/favicon">
-  
-  <!-- Preconnect for performance -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=-apple-system:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  
-  <!-- Leaflet for Maps -->
-  
-  
-  <!-- Schema.org JSON-LD -->
-  <script type="application/ld+json">
-  {
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "Home - My Website",
-  "description": "Welcome to my website",
-  "url": "https://zachalope.com/",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Zachalope",
-    "url": "https://zachalope.com"
-  }
-}
-  </script>
-  
-  <!-- Custom Head Code -->
-  
-  
-  <!-- Google Analytics (on every page) -->
-  
-  
-  <!-- Google Tag Manager (on every page) -->
-  
-  
-  <link rel="stylesheet" href="TestPage1.css">
 
-</head>
+<title>Blog</title>
+<link rel="icon" type="image/x-icon" href="/assets/logo5.png" />
+<meta name="description" property="description" content="Just a useless website."/>
+<meta name="og:title" property="og:title" content="A useless website."/>
+<meta name="og:image" property="og:image" content="https://zachalope.com/Favicon.html"/>
+<link href="https://fonts.googleapis.com" rel="preconnect" ><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin ></head>
+<body id="i67ig"><div class="navbar">
+  <div data-gjs="navbar" class="navbar-container">
+    <a href="./" class="navbar-brand">Zachalope</a>
+    <div id="i4xie" class="navbar-burger">
+      <div class="navbar-burger-line"></div>
+      <div class="navbar-burger-line"></div>
+      <div class="navbar-burger-line"></div></div>
+    <div data-gjs="navbar-items" class="navbar-items-c">
+      <div class="navbar-menu">
+        <A href="./" class="navbar-menu-link">🏠Home</A>
+        <A href="./blog.html" class="navbar-menu-link">📜Blog</A>
+        <A href="mailto:zachalope@zachalope.com?subject=Zachalope.com" class="navbar-menu-link">📧Email<br/></A></div></div></div></div>
+ <div id="hoverText" title="2026">
 <body>
 
-  
-  
-  
-  
-      <nav class="component-1765831471221-xzvcrgn5a navbar" >
-        <div class="nav-container">
-          <img src="https://zachalope.com/favicon" alt="Logo" class="nav-logo-img">
-          <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="hamburger"></span>
-          </button>
-          <ul id="mobile-menu" class="nav-links">
-            <li class="nav-item"><a href="/" class="nav-link">Home</a></li><li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
-          </ul>
-        </div>
-      </nav>
-<div class="component-1765832462935-oydm7mb2a container" role="region" aria-label="container"><div class="component-1765832500840-ibdgyhaqu" role="tablist" aria-label="tabs"></div></div>
-  
-  
-  
-  
-  
-  <!-- Copyright Footer -->
-  <div style="text-align: center; padding: 1.5rem; margin-top: 3rem; border-top: 1px solid #e5e7eb; font-size: 0.875rem; color: #6b7280;">
-    <p style="margin: 0;">Website created with <a href="https://buildnar.com" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: none; font-weight: 500;">BuildNar.com</a> - Professional Website Builder</p>
-  </div>
-  
-  <script>
-    
-    // Mobile navigation toggle
-    document.addEventListener('DOMContentLoaded', function() {
-      const mobileMenuButton = document.getElementById('mobile-menu-toggle');
-      const mobileMenu = document.getElementById('mobile-menu');
-      
-      if (mobileMenuButton && mobileMenu) {
-        mobileMenuButton.addEventListener('click', function() {
-          mobileMenu.classList.toggle('show');
-          this.setAttribute('aria-expanded', mobileMenu.classList.contains('show'));
-        });
-        
-        // Close menu when clicking outside
-        document.addEventListener('click', function(e) {
-          if (!mobileMenuButton.contains(e.target) && !mobileMenu.contains(e.target)) {
-            mobileMenu.classList.remove('show');
-            mobileMenuButton.setAttribute('aria-expanded', 'false');
-          }
-        });
-      }
-      
-      // Smooth scroll for anchor links
-      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-          const href = this.getAttribute('href');
-          if (href && href !== '#') {
-            e.preventDefault();
-            const target = document.querySelector(href);
-            if (target) {
-              target.scrollIntoView({ behavior: 'smooth' });
-            }
-          }
-        });
-      });
-      
-      // Form handling
-      const forms = document.querySelectorAll('form.form');
-      forms.forEach(function(form) {
-        form.addEventListener('submit', function(e) {
-          e.preventDefault();
-          
-          const formData = new FormData(form);
-          const data = {};
-          formData.forEach(function(value, key) {
-            data[key] = value;
-          });
-          
-          const action = form.getAttribute('action');
-          
-          // Handle mailto action
-          if (action && action.startsWith('mailto:')) {
-            const email = action.replace('mailto:', '');
-            let body = 'Form Submission:\n\n';
-            for (const [key, value] of Object.entries(data)) {
-              body += key + ': ' + value + '\n';
-            }
-            window.location.href = 'mailto:' + email + '?subject=Contact Form Submission&body=' + encodeURIComponent(body);
-            
-            // Show success message
-            const successMsg = form.querySelector('.form-success');
-            if (successMsg) {
-              successMsg.style.display = 'block';
-              setTimeout(function() {
-                successMsg.style.display = 'none';
-                form.reset();
-              }, 5000);
-            }
-          } else {
-            // Default form submission
-            form.submit();
-          }
-        });
-      });
-      
-      // Map initialization (Leaflet)
-      const mapContainers = document.querySelectorAll('.map');
-      mapContainers.forEach(function(mapContainer) {
-        const centerLat = parseFloat(mapContainer.getAttribute('data-center-lat')) || 0;
-        const centerLng = parseFloat(mapContainer.getAttribute('data-center-lng')) || 0;
-        const zoom = parseInt(mapContainer.getAttribute('data-zoom')) || 12;
-        
-        const map = L.map(mapContainer.id).setView([centerLat, centerLng], zoom);
-        
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-          maxZoom: 19
-        }).addTo(map);
-        
-        const markersData = mapContainer.parentElement.querySelector('.map-markers-data');
-        if (markersData) {
-          const markers = markersData.querySelectorAll('.marker-data');
-          markers.forEach(function(markerData) {
-            const lat = parseFloat(markerData.getAttribute('data-lat'));
-            const lng = parseFloat(markerData.getAttribute('data-lng'));
-            const title = markerData.getAttribute('data-title');
-            const description = markerData.getAttribute('data-description');
-            
-            if (!isNaN(lat) && !isNaN(lng)) {
-              const marker = L.marker([lat, lng]).addTo(map);
-              
-              if (title || description) {
-                let popupContent = '';
-                if (title) popupContent += '<strong>' + title + '</strong>';
-                if (description) popupContent += (title ? '<br>' : '') + description;
-                marker.bindPopup(popupContent);
-              }
-            }
-          });
-        }
-      });
-    });
-    
-    
-  
-  </script>
+    <section class="yeartitle">
+    <div class="yearlink"><a href="/blog.html">2026</a></div>
+    <div class="yearlink"><a href="/blog2025.html">2025</a></div>
+    </section>
+
+    <main class="container">
+
+              <!-- Blog Post 1 -->
+        <article class="post">
+            <div class="post-header">
+                <h2 class="post-title">Second Blog Post</h2>
+                <p class="post-date">January 1, 2025</p>
+            </div>
+            <div class="post-content">
+                <p>
+                    Welcome to my blog. This is my first full post, and everything is displayed
+                    right here on the same page. No clicking around — just scroll and read.
+                </p>
+                <p>
+                    You can write as much as you want in each post. Add paragraphs, images,
+                    code snippets, or anything else you need.
+                </p>
+            </div>
+        </article>
+
+
+        <!-- Blog Post 1 -->
+        <article class="post">
+            <div class="post-header">
+                <h2 class="post-title">First Blog Post</h2>
+                <p class="post-date">January 1, 2025</p>
+            </div>
+            <div class="post-content">
+                <p>
+                    Welcome to my blog. This is my first full post, and everything is displayed
+                    right here on the same page. No clicking around — just scroll and read.
+                </p>
+                <p>
+                    You can write as much as you want in each post. Add paragraphs, images,
+                    code snippets, or anything else you need.
+                </p>
+            </div>
+        </article>
+
+
+
+    </main>
 
 </body>
 </html>
