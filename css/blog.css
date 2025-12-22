@@ -13,22 +13,22 @@ body {margin: 0;}
 .navbar-burger-line{padding-top:1px;padding-right:1px;padding-bottom:1px;padding-left:1px;background-color:white;margin-top:5px;margin-right:0px;margin-bottom:5px;margin-left:0px;}
 
 a:link {
-  color: #3F2F2F;
+  color: #E8DCC2;
 }
 
 /* visited link */
 a:visited {
-  color: #3F2F2F;
+  color: #E8DCC2;
 }
 
 /* mouse over link */
 a:hover {
-  color: #E8DCC2;
+  color: #ffae00;
 }
 
 /* selected link */
 a:active {
-  color: #E8DCC2;
+  color: #ffae00;
 }
 
 .yeartitle {
