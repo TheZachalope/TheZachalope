@@ -58,7 +58,7 @@ body {
 #picture1a{
     max-width:fit-content;
     max-height:auto;
-    object-fit:fit-content;
+    object-fit:scale-down;
     object-position:center;
     display:block;
     position:static;
