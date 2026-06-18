@@ -4,7 +4,7 @@ body {margin: 0;}
 .navbar:link{background-color:#000000;background-repeat:repeat;background-position:left top;background-attachment:scroll;background-size:auto;background-image:linear-gradient(to right, #656565 0%, rgba(0, 0, 0, 255) 100%);}
 .navbar{color:rgb(221, 221, 221);min-height:100px;width:100%;margin:0px 0px 10px 0px;position:static;border:0px none;border-radius:0px 0px 0px 0px;background-color:rgba(0,0,0,0.6);}
 .navbar-container{max-width:950px;margin-top:0px;margin-right:auto;margin-bottom:0px;margin-left:auto;width:95%;}
-.navbar-items-c{display:inline-block;float:right;}
+.navbar-items-c{display:block;float:right;}
 .navbar-container::after{content:"";clear:both;display:block;}
 .navbar-brand{vertical-align:top;display:inline-block;min-height:100px;color:#ff0000;text-decoration:none;text-shadow:0px 0 25px white;padding:5px 5px 5px 5px;margin:0px 0px 0px -40px;z-index:223;border:15px solid rgba(0,0,0,0);}
 .navbar-menu{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;display:block;float:right;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;min-height:100px;}
@@ -56,7 +56,7 @@ body {
     margin:50px 0;
 }
 #picture1a{
-    max-width:auto;
+    max-width:100%;
     max-height:auto;
     object-fit:auto;
     object-position:center;
