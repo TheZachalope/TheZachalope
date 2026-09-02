@@ -3,7 +3,7 @@
     <title>Zachalope</title>
     <link href="https://zachalope.com/feed.xml" rel="self" />
     <link href="https://zachalope.com" />
-    <updated>2026-09-02T15:55:40-05:00</updated>
+    <updated>2026-09-02T17:06:38-05:00</updated>
     <author>
         <name>Zachalope</name>
     </author>
@@ -22,12 +22,12 @@
         <updated>2026-09-02T15:55:40-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Well, I've decided to got away from just coding the website myself at all and am going with a static CMS generator. I thought about using Hugo, but didn't really care for it / have the time to learn it. Instead, at the time of this post, I'm converting my website into Publii. It's free and clean. Seems easy enough... Just have to manually move my blog posts over, so that will take a while. This blog post won't even be live until I convert the site fully over, too. I've got to figure out how to keep a different&hellip;
+                    Well, I've decided to got away from just coding the website myself at all and am going with a static CMS generator. I thought about using Hugo, but didn't really care for it / have the time to learn it. Instead, at the time of this post, I'm converting my website into Publii. It's free and clean. Had to manually move my blog posts over, but that didn't take too long. Now, I just need to figure out how to get the homepage to actually show at zachalope.com instead of the "hero page." Life has been... full of chaos and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Well, I've decided to got away from just coding the website myself at all and am going with a static CMS generator. I thought about using Hugo, but didn't really care for it / have the time to learn it. Instead, at the time of this post, I'm converting my website into Publii. It's free and clean. Seems easy enough... Just have to manually move my blog posts over, so that will take a while. This blog post won't even be live until I convert the site fully over, too. I've got to figure out how to keep a different static page I use for links at work untouched before launching this.</p>
+                <p>Well, I've decided to got away from just coding the website myself at all and am going with a static CMS generator. I thought about using Hugo, but didn't really care for it / have the time to learn it. Instead, at the time of this post, I'm converting my website into Publii. It's free and clean. Had to manually move my blog posts over, but that didn't take too long. Now, I just need to figure out how to get the homepage to actually show at zachalope.com instead of the "hero page."</p>
 <p>Life has been... full of chaos and change. I've moved into the house up the hill from my parents and am currently boxing up/cleaning my old house before I can sell it. There's a lot going on, but I only ask that you pray for my children. They're doing good, though. Growing quickly, that's for sure.</p>
 <p>I'll try to update this blog a little more frequently. At this time, though, I'm not going to disclose much more than I already have about my current life situations. I'm sure people can read through the lines.</p>
             ]]>
