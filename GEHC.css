@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 5px 10px 0px 10px;
+  background: #6022a6;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(0, 0, 0);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 0);
+}
+
+/* selected link */
+a:active {
+  color: rgb(0, 0, 255);
+}
+
+header {
+  background: #38003f49;
+  color: white;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.labor-hours {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.card {
+  background: #3498db;
+  color: white;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.service-requests {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.service-requests ul {
+  list-style: none;
+  padding: 0;
+}
+
+.service-requests li {
+  margin: 5px 0;
+}
+
+.events {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.event-card {
+  background: #e67e22;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.purchase-orders {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.PMs {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.cardPM {
+  background: #0fb800;
+  color: white;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
+}
+.MiscCards {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.cardMisc {
+  background: #9900ff;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
+}
