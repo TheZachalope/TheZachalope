@@ -3,12 +3,38 @@
     <title>Zachalope</title>
     <link href="https://zachalope.com/feed.xml" rel="self" />
     <link href="https://zachalope.com" />
-    <updated>2026-09-08T20:58:30-05:00</updated>
+    <updated>2026-09-17T21:14:25-05:00</updated>
     <author>
         <name>Zachalope</name>
     </author>
     <id>https://zachalope.com</id>
 
+    <entry>
+        <title>No Progress and Other Updates</title>
+        <author>
+            <name>Zachalope</name>
+        </author>
+        <link href="https://zachalope.com/blog/no-progress-and-other-updates/"/>
+        <id>https://zachalope.com/blog/no-progress-and-other-updates/</id>
+            <category term="Blog"/>
+            <category term="2026"/>
+
+        <updated>2026-09-17T21:05:26-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I still haven't been able to make progress on getting my house ready to sell... But I did go ahead and rent a storage unit! This weekend I'll move all of the boxes/bags I have packed into it. It doesn't sound like I'll be doing much, but every little bit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I still haven't been able to make progress on getting my house ready to sell... But I did go ahead and rent a storage unit! This weekend I'll move all of the boxes/bags I have packed into it. It doesn't sound like I'll be doing much, but every little bit helps. It just needs to get done. Pray I'll get the time to!</p>
+<p>My Twitch got an upgrade: a bot. I found a self-hosted Twitch bot called PhantomBot and got it set up. It's mostly still the defaults, but it'll be a nice little tool to have during the streams. And as time goes on, I'll add more commands and behaviors as I see fit. I still haven't streamed again, but it's rather fun just tinkering with the program. I've got it installed on my laptop and will run it only when streaming or messing with the settings. It was tempting to install it on my server computer, but decided it doesn't need to run all the time.</p>
+<p>Speaking of the server computer, I don't think I've wrote about it yet. I'm running Ubuntu Server on my old dektop. It's mainly for JellyFin, a self-hosted media server. I've got some movies and TV shows on it. I also have a Minecraft server running on it for a small Christian Discord group I'm in. I don't think anyone's been on it, as they have a Realm they play occasionally, but I use Java, soooo.... I figured why not make one both Java and Bedrock can join.</p>
+<p>The next thing I'll probably do with this website is change the "Contact" page to a "Links" page and have the email and Telegram links still, but also Tiktok, Youtube, Twitch, Steam, and so on... Like a self-hosted Linktree/Carrds. I'm not sure when I'll get around to actually doing that, but I think it'll be nice to have!</p>
+<p>Hope everyone (probably no one) reading this is having a good day! God bless.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Janky Twitch and Sickly Kids</title>
         <author>
@@ -220,28 +246,6 @@
         <content type="html">
             <![CDATA[
                 <p>I've decided to sell my motorycle. Financially, we need the money, but realistically, I don't really need it anymore. It's been like two years since I've even ridden it. I put a new battery in it over the last summer and still did not take it out for a ride. A few years back, I was riding on a backroad whilst not feeling very good and hitt some gravel around a turn. This led me to being stuck under the motorcycle at a weird angle where I'm pretty sure if I didn't get out as fast as I did, I would have had permanent ankle injuries. The only way I got out from under is an older gentleman lived down the road and happened to be going home at that time. He stopped and was able to help get it off of me. I rode the motorcycle home with the handlebars at 30 degree angle to go straight. The motorcycle was fine.<br>Ever since then, I've been leery about corners. Having a family now just amplifies the nervousness. I love the thing, but it's just not my time to ride. It's a 2007 KLR650. The very motorcycle I always wanted. Could take me anywhere, but I never rode it to justice. So it's going to my co-worker. The same one that bought a computer gaming setup a few years back, funnily enough. I'm probably going to ride it to her house this weekend and have her take me back home. It'll be such a bittersweet time.<br><br>After that, I'll order the starter to get my truck up and running and try to sell that, too. I have no need for the truck as I can borrow one or use a small trailer if I need to haul. Most things will fit in my Outback or the minivan if we need larger things, anyway. That'll also be a bittersweet time because the truck is my first vehicle. It's a 2000 Chevy Silverado v8 longbed and I absolutely love the feel of it. But, since I bought the Outback, it mainly just sits. Last time I drove it is when the starter gave up. So it needs to go, too.<br><br>I emailed the hiring manager about another remote position within my company. I don't think they'd even consider me given I'm lacking a few of the requirements, but I figure it doesn't hurt to ask. And wastes less time for everyone than just applying. Who knows, though?<br><br>We're also looking at moving out to the property my parents own closer to the middle of the year rather than the end. It depends on when city water is out there and when my uncle vacates the area. There's no chance of us getting out there before the city water and there will need to be a few things done to the house first, but sooner would be nice. My mother retired and it would be just up the hill from her, so if my wife is having a hard day with her health, it'll be easier to manage. Plus, she's already talked to our current helper and she is willing to go that far to help. Probably only 2 days a week instead of 3-4 for the same pay, but it would be worth it for sure.<br><br>I'm on call this week for work and have been called in to work the last three days at varying times. This is good for the wallet, but abnormal for me. Typically, I get maybe one call the entire week and I'm up to three already. I'm not complaining, it's just odd.<br><br>I can't believe we're having my daughters' second and third birthday party in two weeks. We're having it at Chuck-E-Cheese this time as there will be several kids and it is just the easiest thing this year. Crazy how time flies.<br><br>Also, speaking of finances, I think I've got a plan that'll get us through. Perhaps completely out of the water, but we'll make it out to the property for sure first. Things aren't ideal, but I feel more hope than I have in a long time about it.<br><br>I'm not sure when I'll blog again... probably after the birthday party, unless something big happens. But until then, I wish you well!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rough Start to a New Year</title>
-        <author>
-            <name>Zachalope</name>
-        </author>
-        <link href="https://zachalope.com/blog/rough-start-to-a-new-year/"/>
-        <id>https://zachalope.com/blog/rough-start-to-a-new-year/</id>
-            <category term="Blog"/>
-            <category term="2026"/>
-
-        <updated>2026-01-03T15:46:00-06:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Well, it's officially 2026. My kids have been having a rough time going to sleep for some reason and then my wife was sick for the days around New Year's. So I was just up alone until a bit after midnight, not really doing anything. Our youngest puppy started having&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Well, it's officially 2026. My kids have been having a rough time going to sleep for some reason and then my wife was sick for the days around New Year's. So I was just up alone until a bit after midnight, not really doing anything. Our youngest puppy started having seizures, but the vet said she had high levels of onion or garlic in the tests, so we think she's been eating the wild onion that grows in the back yard... I'll have to start pulling that when cleaning up dog poop back there. My wife and I had a rough day a few days ago as we still are tryin to learn each other's triggers and ho to de-escalate, but such is life. I love her. Financially, I'm not sure how we're ging to make it until we can move out to the other property... I worry. Trying to trust God is hard.<br>And now, to top off the start, one of my aunts is in critical condition after being in a bad accident yesterday. Several broken bones, internal bleeding, etc. So please pray for her.<br><br>So yeah, not a great start to the year...<br><br>But, I'm trying not to lose hope. My girls are happy, they love playing outside. Yesterday, my youngest was pushing my oldest in one of those walking cars around the yard. They were both smiling and laughing so hard. It was wonderful to see.<br>My wife and I were laughing together some recently, too, despite the sickness and chaos.<br>And I've started to read again. Currently I'm reading <em>Hold Me Tight</em> by Dr. Sue Johnson. I'm about halfway through and and it is helping me understand things better. So far it's a great read. Now I just need to learn to implement the stuff talked about.<br><br>This year will be a big year in any case. People may be moving around/leaving the job, which will be stressful, but could be interesting. My mom is retiring from her job and is going to focus on their little homestead. My girls are turning 2 and 3. And we should be moving out to the propertly near my parents in the later part of the year.<br>I'm really looking forward to the move, despite the 15+ minute longer commute.<br><br>Anwway, yeah... rough start to the year. It's Saturday and I'm working due to the recent sicknesses not letting me come in on Friday.<br><br>In other news, we recently got Disney's Dreamlight Valley and my wife is enjoying it. She's been playing it quite a bit lately and my girls enjoy watching and seeing the familiar characters. It'll be really fun when they're able to actually play things with us. Currently, they just hold controllers that don't have batteries and pretend. But once they understand the concept of games, we'll let them in on the Mario Party sessions and teach them simple board games. I'm more excited about the board games, really. I hope our girls grow into loving board games.<br><br>My parents got the girls this blue Jeep car they can both ride in. They can control it, but it also have a remote controller so we can drive it for them. They were loving driving around in my parents' yard and up their driveway. The laughter and smiles are always the best. It'll stay out there since we don't really have the space to store such a thing, but they're out there most weekends, so it'll be good still.<br><br>Well that's the update starting the New Year. I hope you all had a good 2025 and kicked off 2026 strong. Until next time!</p>
             ]]>
         </content>
     </entry>
