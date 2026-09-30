@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://zachalope.com/blog/dakboard-backup-dashboard-and-twitch-audio/",
+            "url": "https://zachalope.com/blog/dakboard-backup-dashboard-and-twitch-audio/",
+            "title": "DakBoard, Backup Dashboard, and Twitch Audio",
+            "summary": "I bit the bullet and bought a refurbished monitor for setting up as an electronic wall calendar. Just mounted it today and it makes me think I should have gone with a larger size! Oh well, it'll still be nice to have and I can always upgrade later if desired.Cool&hellip;",
+            "content_html": "<p>I bit the bullet and bought a refurbished monitor for setting up as an electronic wall calendar. Just mounted it today and it makes me think I should have gone with a larger size! Oh well, it'll still be nice to have and I can always upgrade later if desired.Cool thing about it is the USB ports on it can provide power for the Raspberry Pi, so there's only one cable leaving the back of the monitor (power). The rest of them are managed where you can't see them from the front. It's got the next time and date, the calendar showing the next four weeks, and five days of weather on the right. I like it.</p>\n<p>I've mentioned it before, but at work, the local team uses a dashboard I set up to make our day-to-day easier. I had to re-make it in a few system recently, for which they said we'd be able to create dashboards again in... Well, just this week, they took away my ability to share it with new people <em>again</em>. So I'm updating links to a backup dashboard I have on this site in case they go and delete the  self-made dashboards... The one on here is essentially just a links repository with formatting, so nothing special. They can't really take that away... But as it stands right now, we have two new people starting and I can't share the main dashboard with them. I think users can still make their own dashboards, so I'll try just borrowing their computer and rebuilding it from scratch for their user accounts. It is much easier to see the numbers in one place rather than having to click the links in the backup... or use the convoluted dashboard the admins are wanting us to use.</p>\n<p>The bot I use for Twitch, PhantomBot, has the option to add songs to a queue and such. With my current setup, I wouldn't be able to hear the music at the same time as watchers, so I haven't bothered setting it up. However, I've recently discovered that audio-mixing headphones are a thing. Like the SteelSeries Arctis Nova 7. It would allow me to use a USB dongle with the Steam Deck to hear the game, but also allow me to use bluetooth with my laptop to hear the music and Discord. It's a little pricey, but seems worth it. I've added the Nova 7 to my wishlist and will be looking out for sales/refurbs. I can't justify spending much on it currently, so it'll come later. But I love the idea of allowing chat to queue up songs.</p>\n<p>My daughters are doing great, by the way. They love playing with their toys and having me read books. Currently, their song obsession is \"Story of a Worm\" by Sarah Maddack. I think I listened to that song about 30 times today... but it is a fun one. Here recently, when we come back up the hill to my house from my parents' house, they just want to play outuside on their little castle before going inside. Which is good for them, so I'm usually just standing there watching for 30 or so minutes before telling them it's time to go inside and wind down, getting ready for dinner (or bathtime if we ate at my parents'). When people say, \"They grow up so fast,\"  they <em>mean it</em>. It's crazy how fast they grow. It's also very noticable how much difference one year apart makes in these early years. But I'm also really glad they're so close in age as they typically play together very well. And it's apparent that they love each other very much. I wouldn't trade them for the world.</p>",
+            "author": {
+                "name": "Zachalope"
+            },
+            "tags": [
+                   "Blog",
+                   "2026"
+            ],
+            "date_published": "2026-09-29T20:56:02-05:00",
+            "date_modified": "2026-09-29T20:57:44-05:00"
+        },
+        {
             "id": "https://zachalope.com/blog/whered-my-face-go-and-other-updates/",
             "url": "https://zachalope.com/blog/whered-my-face-go-and-other-updates/",
             "title": "Where&#x27;d My Face Go? And Other Updates",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2026-02-19T15:49:00-06:00",
             "date_modified": "2026-09-02T15:49:33-05:00"
-        },
-        {
-            "id": "https://zachalope.com/blog/snow-days-and-birthdays/",
-            "url": "https://zachalope.com/blog/snow-days-and-birthdays/",
-            "title": "Snow Days and Birthdays",
-            "summary": "Here in Akransas this last week, we had a lot of snow (for us). It was too powdery to make snowmen and then turned to solid ice (my driveway is still half ice), but the girls loved it. We bundled them up and they loved running around in it. They&hellip;",
-            "content_html": "<p>Here in Akransas this last week, we had a lot of snow (for us). It was too powdery to make snowmen and then turned to solid ice (my driveway is still half ice), but the girls loved it. We bundled them up and they loved running around in it. They mostly liked eating it, though... but we were able to show our 3 year old how to make snow angels and she made several! That was fun.<br><br>We had the girls' birthday party at Chuck E Cheese this past weekend. I thought it would be more like them I was young and they had maybe 4 parties max and more room, but no... they had <i>seven</i> parties crammed in the back. Hardly enough room to walk between the tables. It was chaos. I don't see us ever doing that again... but the kids had fun, at least. We had pizza and cupcakes. My youngest daughter mainly stayed in their little play area where they have a ramp to climb up and a slide, whilst my oldest daughter went from game to game, usually dragging my dad or mom with her. All in all, it was okay. But they really shouldn't cram that many parties in the area. Would have been much more enjoyable if they cut it down to four.<br><br>One of the girls' gifts was a large mat that you use water on to color. We had it set up at the table for a while Sunday and they were loving it. They had me draw things on it, too... but I'm no artist.<br><br>Also since the last blog, I put up a 'sensory swing' in the living room. Both girls love it, but they also tend to fight over it. I've since purchased another one that arrived yesterday. I'll have to install it really soon. At first they mostly liked sitting in it and swinging, but quickly learned they can put the cloth under their armpits and swing like it's a harness, using their feet to move and lift up for air. Both of them have a blast doing that.<br><br>My wife's health isn't great - she's actually started getting infusions on Fridays for the next few weeks due to having very low iron saturation in her blood. So that's fun. We're also going to Oklahoma City at the end of the month for one of her specialists. But, at least we're getting somewhere. The more answers we can get, the better. It's just stressful and I cannot help her with her pain and fatigue. I wish I could. Not being able to is so frustrating, which comes out as anger. It's something I'm working on.<br><br>As for my job, yeah... two people are confirmed leaving. One in two weeks, the other in about four. It'll be nice having the extra on-call pay, but not fun if I get called in too often. It'll also make it harder to meet our required metrics, but we'll do our best. That's all we can do, after all. I'm hoping that this will allow me to slide into the Biomedical Technician 3 position. I've been a BMET 2 for the last 5 years, which is around the timeframe they want before the 3. So we'll see. I've just got to try and remain positive and not lete the added stressors get to me. Pray for me!</p>",
-            "author": {
-                "name": "Zachalope"
-            },
-            "tags": [
-                   "Blog",
-                   "2026"
-            ],
-            "date_published": "2026-02-03T15:48:00-06:00",
-            "date_modified": "2026-09-02T15:48:59-05:00"
         }
     ]
 }
