@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://zachalope.com/blog/iphone-and-house-progress/",
+            "url": "https://zachalope.com/blog/iphone-and-house-progress/",
+            "title": "iPhone and House Progress",
+            "summary": "So I've been using the iPhone 13 mini for a bit under a month now and I think I'll stick with it. Not because it's a better phone, but because it is doing what I want. I'm less inclined to pull it out and use randomly. It'll still take re-training&hellip;",
+            "content_html": "<p>So I've been using the iPhone 13 mini for a bit under a month now and I think I'll stick with it. Not because it's a better phone, but because it is doing what I want. I'm less inclined to pull it out and use randomly. It'll still take re-training my mind not to use it so much, but it is and will continue to be easier to use less than my Android phones have been. I'm not installing any games, so it's mostly used for podcasts, music, and communication. I still use TikTok and Reddit on it, but not as much as I did on the my old phone. I aim to shift the time I spend on the phone more towards reading. Not where I want to be yet, but a lot closer. It helps that the battery life isn't as good, being an older, smaller phone. I moved all my photos from Google Photos to Apple Photos, so I didn't really lose anything from this move. I do wish the watch battery lastest longer, though. I'm having to remeber to charge it at least once a day instead of every other day or even three days like I'm used to. Otherwise, I don't miss Android as much as I thought I would. But then again, I did go into this specifically for the restrictions.</p>\n<p>This weekend I got everything out of the house I need to sell. All that's left are two larger items I need to borrow a truck to move to storage, a few tools that'll come out to the property with me, and the rest is essentially trash or staying if the home buyer wants them. <br>I also completed the gray water tank replacement. I was about to take a nap when I heard my neighbor roll up in his side-by-side and found him looking at what I had done, then he offered to come move the dirt back over the PVC and the tank right then and there. He did a great job and even did the section inside the fence. All that's left with that is to take a metal rake to the high spots inside the fence where he couldn't compact it down due to the room constraint. But I didn't have to shovel it all back, which was a Godsend!<br>Today I also had to get sharpie off some walls. Unfortunately, none of the cleaning methods worked, so I just used primer I already had to paint over it. Had to use like 5 coats, but whatever.<br>All that's left is to replace a little bit of transition flashing, which will be easy, just need to bring a battery-powered drill. I have the materials I need there already. And then deep clean. It should be ready by the end of the month! </p>\n<p>Overall, I've been feeling pretty down lately. There are several things coming to a close in my life very soon, not just selling my first house... I think that once that house is out of my hair and I have more time, I might start going to local events more when I'm free. Maybe try to make a few friends. I don't know. It could be a good thing. I used to go to Monday night trivia nearly every week up until just over four years ago. That place still does several community events like that all the time, so I'll have to see what's going on. But yeah, currently life has been... difficult. It'll be okay, though...</p>",
+            "author": {
+                "name": "Zachalope"
+            },
+            "tags": [
+                   "Blog",
+                   "2026"
+            ],
+            "date_published": "2026-11-07T21:32:40-06:00",
+            "date_modified": "2026-11-07T21:33:02-06:00"
+        },
+        {
             "id": "https://zachalope.com/blog/iphone-13-mini-and-digging/",
             "url": "https://zachalope.com/blog/iphone-13-mini-and-digging/",
             "title": "iPhone 13 Mini and Digging",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2026-03-27T15:51:00-05:00",
             "date_modified": "2026-09-02T15:51:36-05:00"
-        },
-        {
-            "id": "https://zachalope.com/blog/a-little-rock-and-little-rocks/",
-            "url": "https://zachalope.com/blog/a-little-rock-and-little-rocks/",
-            "title": "A Little Rock and Little Rocks",
-            "summary": "So recently, my wife and I went to Little Rock to see another specialist. The wait was long and frustrating, but the doctor made up for it by being very kind and understanding. He does think she has POTS and a certain type. At the end of this month, we've&hellip;",
-            "content_html": "<p>So recently, my wife and I went to Little Rock to see another specialist. The wait was long and frustrating, but the doctor made up for it by being very kind and understanding. He does think she has POTS and a certain type. At the end of this month, we've got to go back to his office to do another tilt table test as he doesn't like how the place she got hers done performs theirs. My wife came out of the appointment hopeful.<br><br>My girls have been sick all last week with Strep, COVID, and RVS, so that's been fun. Their antibiotics definitely worked, though; they're both feeling better now. In turn, my wife is now sick. She's on antibiotics now, too. I've had a slight cough for like a month, but other than that, I've been fine.<br><br>My daughters have started calling small rocks and sprinkles 'little rocks' for some reason. Unsure why, but it's cute.<br><br>It's time to start mowing again, unfortunately. It is currently Wednesday and I have to mow everything before Saturday due to an easter egg hunt my wife is hosting at our house. And I can't tonight... So tomorrow or Friday, it is. Hooray. I'm not huge on hosting things... or going to events in general... but now I have a wife and kids, so it's a sacrifice I must make.<br><br>Work hase been fun! Sarcasm, by the way... but yeah. We're managing to keep up on preventative maintenance, but that's coming at the cost of corrective orders sitting on the sideline. We're getting a little burried. Good news is one of the jobs for this shop has been posted, finally.</p>",
-            "author": {
-                "name": "Zachalope"
-            },
-            "tags": [
-                   "Blog",
-                   "2026"
-            ],
-            "date_published": "2026-03-17T15:50:00-05:00",
-            "date_modified": "2026-09-02T15:51:02-05:00"
         }
     ]
 }
